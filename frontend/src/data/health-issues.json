@@ -1,0 +1,437 @@
+{
+  "health_issues": [
+    {
+      "name": "PCOD/PCOS",
+      "symptoms": [
+        "Irregular menstrual periods",
+        "Weight gain or difficulty losing weight",
+        "Acne and oily skin",
+        "Hair growth on face and body",
+        "Hair thinning on scalp"
+      ],
+      "yoga_exercises": [
+        {
+          "name": "Butterfly Pose (Baddha Konasana)",
+          "description": "Hip-opening pose that improves circulation to reproductive organs",
+          "steps": [
+            "Sit with your back straight and legs extended",
+            "Bend your knees and bring the soles of your feet together",
+            "Hold your feet with your hands and gently pull them closer to your pelvis",
+            "Inhale deeply and lengthen your spine",
+            "Exhale and gently fold forward, keeping your back straight",
+            "Hold for 5-8 breaths, breathing slowly and deeply"
+          ],
+          "image_url": "./assets/images/yoga/butterfly_pose.png",
+          "timer": 120
+        },
+        {
+          "name": "Child's Pose (Balasana)",
+          "description": "Calming pose that reduces stress and balances hormones",
+          "steps": [
+            "Kneel on the floor with your big toes touching",
+            "Separate your knees about hip-width apart",
+            "Exhale and fold forward, resting your torso between your thighs",
+            "Extend your arms forward or rest them alongside your body",
+            "Rest your forehead on the mat and breathe deeply",
+            "Hold for 1-3 minutes, focusing on calm breathing"
+          ],
+          "image_url": "./assets/images/yoga/childs_pose.png",
+          "timer": 180
+        },
+        {
+          "name": "Cat-Cow Pose (Marjaryasana-Bitilasana)",
+          "description": "Spinal movement that massages reproductive organs and reduces stress",
+          "steps": [
+            "Start on hands and knees in tabletop position",
+            "Place wrists under shoulders and knees under hips",
+            "Inhale, arch your back and lift chest and tailbone (Cow)",
+            "Exhale, round your spine toward ceiling and drop your head (Cat)",
+            "Continue flowing between poses with each breath",
+            "Repeat 8-10 rounds, moving slowly and mindfully"
+          ],
+          "image_url": "./assets/images/yoga/cat_cow_pose.png",
+          "timer": 120
+        }
+      ]
+    },
+    {
+      "name": "Back Pain",
+      "symptoms": [
+        "Persistent ache or stiffness in back",
+        "Sharp or shooting pain in lower back",
+        "Pain that radiates down the leg",
+        "Difficulty standing up straight",
+        "Muscle spasms in back area"
+      ],
+      "yoga_exercises": [
+        {
+          "name": "Downward-Facing Dog (Adho Mukha Svanasana)",
+          "description": "Full-body stretch that strengthens back muscles and improves posture",
+          "steps": [
+            "Start on hands and knees in tabletop position",
+            "Tuck your toes under and lift your hips up and back",
+            "Straighten your legs and create an inverted V-shape",
+            "Press your hands firmly into the mat, fingers spread wide",
+            "Breathe deeply and hold, pedaling feet if needed for beginners",
+            "Keep your head between your arms and spine long"
+          ],
+          "image_url": "./assets/images/yoga/downward_dog.png",
+          "timer": 60
+        },
+        {
+          "name": "Knee-to-Chest Pose (Apanasana)",
+          "description": "Gentle back stretch that relieves lower back tension",
+          "steps": [
+            "Lie on your back with knees bent and feet flat on floor",
+            "Bring one knee toward your chest, hugging it with both hands",
+            "Keep the other foot flat on the floor or extend the leg",
+            "Hold for 30 seconds, breathing deeply",
+            "Switch legs and repeat",
+            "For deeper stretch, bring both knees to chest together"
+          ],
+          "image_url": "./assets/images/yoga/knee_to_chest.png",
+          "timer": 90
+        },
+        {
+          "name": "Supine Spinal Twist (Supta Matsyendrasana)",
+          "description": "Gentle twist that releases back tension and improves spine mobility",
+          "steps": [
+            "Lie on your back with arms extended in a T-shape",
+            "Bring your knees to your chest",
+            "Lower both knees to one side while keeping shoulders on the ground",
+            "Turn your head to the opposite side if comfortable",
+            "Breathe deeply and hold for 1-2 minutes",
+            "Return to center and repeat on the other side"
+          ],
+          "image_url": "./assets/images/yoga/spinal_twist.png",
+          "timer": 120
+        }
+      ]
+    },
+    {
+      "name": "Neck Pain",
+      "symptoms": [
+        "Stiffness and reduced range of motion",
+        "Sharp or burning pain in neck",
+        "Headaches starting from base of skull",
+        "Muscle spasms in neck and shoulders",
+        "Pain radiating to arms or shoulders"
+      ],
+      "yoga_exercises": [
+        {
+          "name": "Neck Rolls",
+          "description": "Gentle movement to release neck tension and improve mobility",
+          "steps": [
+            "Sit comfortably with spine straight and shoulders relaxed",
+            "Slowly drop your chin toward your chest",
+            "Gently roll your head to the right, bringing ear toward shoulder",
+            "Continue rolling back, then to the left side",
+            "Complete 3-5 slow, controlled circles in each direction",
+            "Keep movements gentle and stop if you feel pain"
+          ],
+          "image_url": "./assets/images/yoga/neck_rolls.png",
+          "timer": 60
+        },
+        {
+          "name": "Shoulder Shrugs",
+          "description": "Simple movement to release shoulder and neck tension",
+          "steps": [
+            "Sit or stand with arms relaxed at your sides",
+            "Inhale and slowly lift your shoulders toward your ears",
+            "Hold the shrug for 2-3 seconds",
+            "Exhale and slowly release shoulders down",
+            "Repeat 8-10 times with slow, controlled movements",
+            "Focus on breathing deeply throughout the exercise"
+          ],
+          "image_url": "./assets/images/yoga/shoulder_shrugs.png",
+          "timer": 60
+        },
+        {
+          "name": "Eagle Arms (Garudasana Arms)",
+          "description": "Arm pose that stretches shoulders and upper back",
+          "steps": [
+            "Sit or stand with spine straight",
+            "Extend your arms out to the sides",
+            "Cross your right arm over your left at the elbows",
+            "Bend your elbows and bring palms together if possible",
+            "Lift your elbows slightly and breathe deeply",
+            "Hold for 30 seconds, then switch arm positions"
+          ],
+          "image_url": "./assets/images/yoga/eagle_arms.png",
+          "timer": 90
+        }
+      ]
+    },
+    {
+      "name": "Stress & Anxiety",
+      "symptoms": [
+        "Constant worry or racing thoughts",
+        "Difficulty concentrating",
+        "Restlessness and irritability",
+        "Muscle tension and headaches",
+        "Sleep problems and fatigue"
+      ],
+      "yoga_exercises": [
+        {
+          "name": "Legs-Up-the-Wall Pose (Viparita Karani)",
+          "description": "Restorative pose that calms the nervous system and reduces anxiety",
+          "steps": [
+            "Lie on your back near a wall",
+            "Scoot your sitting bones close to the wall",
+            "Extend your legs up the wall, keeping them straight",
+            "Rest your arms by your sides, palms facing up",
+            "Close your eyes and focus on deep, slow breathing",
+            "Stay in this pose for 5-15 minutes for maximum benefit"
+          ],
+          "image_url": "./assets/images/yoga/legs_up_wall.png",
+          "timer": 600
+        },
+        {
+          "name": "Deep Breathing (Pranayama)",
+          "description": "Breathing technique that activates the parasympathetic nervous system",
+          "steps": [
+            "Sit comfortably with spine straight and eyes closed",
+            "Place one hand on chest, one hand on belly",
+            "Inhale slowly through nose for 4 counts, expanding belly",
+            "Hold the breath for 2 counts",
+            "Exhale slowly through mouth for 6 counts, belly falling",
+            "Repeat for 5-10 minutes, focusing only on your breath"
+          ],
+          "image_url": "./assets/images/yoga/deep_breathing.png",
+          "timer": 300
+        },
+        {
+          "name": "Corpse Pose (Savasana)",
+          "description": "Ultimate relaxation pose that releases physical and mental tension",
+          "steps": [
+            "Lie flat on your back with legs slightly apart",
+            "Let your arms rest by your sides, palms facing up",
+            "Close your eyes and let your body completely relax",
+            "Start from your toes and progressively relax each body part",
+            "Focus on natural breathing without controlling it",
+            "Stay still for 5-20 minutes, letting go of all thoughts"
+          ],
+          "image_url": "./assets/images/yoga/corpse_pose.png",
+          "timer": 900
+        }
+      ]
+    },
+    {
+      "name": "Obesity/Weight Gain",
+      "symptoms": [
+        "Excess body weight and BMI over 30",
+        "Difficulty with physical activities",
+        "Shortness of breath",
+        "Joint pain and stiffness",
+        "Low energy and fatigue"
+      ],
+      "yoga_exercises": [
+        {
+          "name": "Sun Salutation (Surya Namaskara)",
+          "description": "Dynamic sequence that burns calories and builds strength",
+          "steps": [
+            "Stand tall with palms together at heart center",
+            "Inhale, sweep arms up overhead",
+            "Exhale, fold forward bringing hands toward floor",
+            "Inhale, step back into plank pose",
+            "Exhale, lower to low push-up position",
+            "Inhale, cobra pose lifting chest",
+            "Exhale, downward dog, then step forward and rise to standing"
+          ],
+          "image_url": "./assets/images/yoga/sun_salutation.png",
+          "timer": 180
+        },
+        {
+          "name": "Warrior II (Virabhadrasana II)",
+          "description": "Standing pose that builds strength and endurance",
+          "steps": [
+            "Step your feet wide apart, about 4 feet",
+            "Turn your right foot out 90 degrees, left foot in 15 degrees",
+            "Bend your right knee over your ankle",
+            "Extend your arms parallel to the floor",
+            "Gaze over your right hand and breathe deeply",
+            "Hold for 30 seconds, then switch sides"
+          ],
+          "image_url": "./assets/images/yoga/warrior_two.png",
+          "timer": 60
+        },
+        {
+          "name": "Boat Pose (Navasana)",
+          "description": "Core-strengthening pose that targets abdominal muscles",
+          "steps": [
+            "Sit with knees bent and feet flat on the floor",
+            "Lean back slightly and lift your feet off the ground",
+            "Balance on your sitting bones and extend legs if possible",
+            "Reach your arms forward parallel to the floor",
+            "Keep your chest lifted and core engaged",
+            "Hold for 15-30 seconds, breathing steadily"
+          ],
+          "image_url": "./assets/images/yoga/boat_pose.png",
+          "timer": 30
+        }
+      ]
+    },
+    {
+      "name": "Diabetes (Type-2 Early Stage)",
+      "symptoms": [
+        "Increased thirst and frequent urination",
+        "Unexplained weight loss",
+        "Fatigue and weakness",
+        "Slow-healing wounds",
+        "Blurred vision"
+      ],
+      "yoga_exercises": [
+        {
+          "name": "Seated Forward Bend (Paschimottanasana)",
+          "description": "Pose that stimulates pancreas and improves insulin sensitivity",
+          "steps": [
+            "Sit with legs extended straight in front of you",
+            "Inhale and lengthen your spine, sitting tall",
+            "Exhale and hinge forward from your hips",
+            "Reach for your feet, ankles, or shins",
+            "Keep your spine long and avoid rounding your back",
+            "Hold for 1-3 minutes, breathing deeply"
+          ],
+          "image_url": "./assets/images/yoga/seated_forward_bend.png",
+          "timer": 120
+        },
+        {
+          "name": "Bridge Pose (Setu Bandhasana)",
+          "description": "Back-bending pose that stimulates abdominal organs",
+          "steps": [
+            "Lie on your back with knees bent, feet hip-width apart",
+            "Place your arms alongside your body, palms down",
+            "Exhale and press your feet down to lift your hips",
+            "Keep your knees parallel and weight on your feet",
+            "Breathe deeply and hold the pose",
+            "Slowly lower down one vertebra at a time"
+          ],
+          "image_url": "./assets/images/yoga/bridge_pose.png",
+          "timer": 60
+        },
+        {
+          "name": "Twisted Chair Pose (Parivrtta Utkatasana)",
+          "description": "Twisting pose that massages internal organs and aids digestion",
+          "steps": [
+            "Stand with feet together, arms at your sides",
+            "Bend your knees and sit back as if sitting in a chair",
+            "Bring your palms together at your heart center",
+            "Twist to the right, hooking left elbow outside right thigh",
+            "Keep your knees aligned and breathe deeply",
+            "Hold for 30 seconds, then repeat on the left side"
+          ],
+          "image_url": "./assets/images/yoga/twisted_chair.png",
+          "timer": 60
+        }
+      ]
+    },
+    {
+      "name": "Headache/Migraine",
+      "symptoms": [
+        "Throbbing or pulsing pain in head",
+        "Sensitivity to light and sound",
+        "Nausea and vomiting",
+        "Pain on one or both sides of head",
+        "Aura or visual disturbances"
+      ],
+      "yoga_exercises": [
+        {
+          "name": "Forward Fold (Uttanasana)",
+          "description": "Calming inversion that increases blood flow to the head",
+          "steps": [
+            "Stand with feet hip-width apart",
+            "Exhale and hinge forward from your hips",
+            "Let your arms hang down or hold opposite elbows",
+            "Keep a slight bend in your knees if needed",
+            "Sway gently side to side if it feels good",
+            "Stay for 30 seconds to 1 minute, breathing deeply"
+          ],
+          "image_url": "./assets/images/yoga/forward_fold.png",
+          "timer": 60
+        },
+        {
+          "name": "Supported Fish Pose (Matsyasana)",
+          "description": "Heart-opening pose that relieves tension in neck and shoulders",
+          "steps": [
+            "Lie on your back with a bolster or pillow under your shoulder blades",
+            "Let your arms rest by your sides, palms facing up",
+            "Allow your head to rest back comfortably",
+            "Close your eyes and breathe naturally",
+            "Feel the gentle opening across your chest",
+            "Stay for 3-5 minutes, focusing on relaxation"
+          ],
+          "image_url": "./assets/images/yoga/supported_fish.png",
+          "timer": 300
+        },
+        {
+          "name": "Wide-Legged Child's Pose (Balasana Variation)",
+          "description": "Restorative pose that calms the mind and relieves head pressure",
+          "steps": [
+            "Kneel on the floor with knees wide apart",
+            "Bring your big toes together behind you",
+            "Sit back on your heels and fold forward",
+            "Rest your forehead on the mat or a block",
+            "Let your arms relax by your sides or extend forward",
+            "Breathe deeply and stay for 2-5 minutes"
+          ],
+          "image_url": "./assets/images/yoga/wide_legged_childs_pose.png",
+          "timer": 300
+        }
+      ]
+    },
+    {
+      "name": "Menstrual Cramps",
+      "symptoms": [
+        "Cramping pain in lower abdomen",
+        "Lower back pain",
+        "Nausea and digestive issues",
+        "Mood swings and irritability",
+        "Headaches and fatigue"
+      ],
+      "yoga_exercises": [
+        {
+          "name": "Reclined Bound Angle Pose (Supta Baddha Konasana)",
+          "description": "Restorative hip opener that relieves pelvic tension",
+          "steps": [
+            "Lie on your back and bring the soles of your feet together",
+            "Let your knees fall open to the sides",
+            "Place pillows or blocks under your knees for support",
+            "Rest your arms by your sides, palms facing up",
+            "Close your eyes and breathe naturally",
+            "Stay for 5-10 minutes, allowing your body to soften"
+          ],
+          "image_url": "./assets/images/yoga/reclined_bound_angle.png",
+          "timer": 600
+        },
+        {
+          "name": "Supine Pigeon Pose (Supta Kapotasana)",
+          "description": "Gentle hip stretch that relieves lower back and pelvic pain",
+          "steps": [
+            "Lie on your back with knees bent",
+            "Cross your right ankle over your left thigh",
+            "Thread your hands behind your left thigh",
+            "Gently draw your left thigh toward your chest",
+            "Keep your head and shoulders relaxed on the ground",
+            "Hold for 1-2 minutes, then switch sides"
+          ],
+          "image_url": "./assets/images/yoga/supine_pigeon.png",
+          "timer": 120
+        },
+        {
+          "name": "Happy Baby Pose (Ananda Balasana)",
+          "description": "Playful pose that releases lower back tension and calms the mind",
+          "steps": [
+            "Lie on your back and draw your knees toward your chest",
+            "Grab the outer edges of your feet with your hands",
+            "Keep your arms on the outside of your legs",
+            "Gently draw your knees down toward your armpits",
+            "Rock side to side if it feels good",
+            "Breathe deeply and hold for 1-2 minutes"
+          ],
+          "image_url": "./assets/images/yoga/happy_baby.png",
+          "timer": 120
+        }
+      ]
+    }
+  ]
+}
